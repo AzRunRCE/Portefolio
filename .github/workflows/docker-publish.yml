@@ -53,4 +53,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: ${{ env.REGISTRY }}/qmartinez
+        tags: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:latest

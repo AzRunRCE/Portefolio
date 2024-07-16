@@ -7,7 +7,7 @@ permalink: /
 # **Bienvenue**
 
 Salut, moi c'est **{{ site.author.name }}** :wave:,<br>
-Agé de 26 ans, je suis développeur. Passionné de programmation informatique depuis plus de 5 ans, je cherche continuellement à acquérir de nouvelles compétences en informatique. J'accompagne les entreprises dans la réalisation de leurs projets IT, avec une attention particulière aux architectures logicielles testables.
+Je suis développeur. Passionné de programmation informatique depuis plus de 5 ans, je cherche continuellement à acquérir de nouvelles compétences en informatique. J'accompagne les entreprises dans la réalisation de leurs projets IT, avec une attention particulière aux architectures logicielles testables.
 
 
 

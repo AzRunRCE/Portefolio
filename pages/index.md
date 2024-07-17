@@ -7,7 +7,9 @@ permalink: /
 # **Bienvenue**
 
 Salut, moi c'est **{{ site.author.name }}** :wave:,<br>
-Je suis développeur. Passionné de programmation informatique depuis plus de 5 ans, je cherche continuellement à acquérir de nouvelles compétences en informatique. J'accompagne les entreprises dans la réalisation de leurs projets IT, avec une attention particulière aux architectures logicielles testables.
+
+Développeur .NET depuis 2018, j'interviens sur des missions de développement logiciel, de création d'applications mobiles avec Flutter, ainsi que de migration vers le cloud.
+Je porte une attention particulière à concevoir architectures logicielles testables.
 
 
 

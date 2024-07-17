@@ -1,0 +1,11 @@
+---
+layout: default
+title: Mes Projets
+permalink: /projects/
+weight: 1
+remote_projects: 
+  - git-for-wizards
+  - arduino-visitor-counter
+---
+
+{% include projects/index.html %}

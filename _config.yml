@@ -52,8 +52,8 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-  #elements:                                             # For Documentation Only
-    #output: true                                        # For Documentation Only
+  elements:
+    output: true                                     # For Documentation Only
 
 
 ### Disqus ###
@@ -75,8 +75,7 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-    values:
-      comments: false                                   # Set to true to enable disqus comments
+                                # Set to true to enable disqus comments
 
 ### Exclude from processing ###
 exclude:

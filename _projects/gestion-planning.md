@@ -1,5 +1,5 @@
 ---
-name: Gestion planning
+name: Logiciel de gestion RDV & planning
 tools: [C#, ReactJS, ASP.NET Core]
 layout: default
 permalink: /projects/gestion-planning
@@ -8,7 +8,7 @@ description: Ce projet a pour but de simplifier un certain nombre de taches néc
 
 ---
 
-# Gestion planning 🎥
+# Application de prise de RDV et gestion de planning 📆
 <p class="post-metadata text-muted">
  <br>Techno: 
 <a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#react">
@@ -33,6 +33,7 @@ Ce projet est en production ! et tourne tous les jours ! c'est dispo ici [https:
 Vous habitez à Rennes ou autour de Rennes ? Laissez-vous tenter par un néttoyage Auto en utilisant ma solution de prise de RDV !
 
 Backoffice développé en ASP.NET Core.
+
 Frontoffice développé en ReactJs.
 
  

@@ -42,7 +42,7 @@ Liens utiles 🌐
 
 - [Site web](https://speedychill.qmartinez.com/)
 - [Dépôt GitHub version initiale](https://gitlab.com/AzRunRCE/frenchtorrentfinder-client)
-- [Dépôt GitHub version actuele](https://gitlab.com/AzRunRCE/pop-torrents)
+- [Dépôt GitHub version actuelle](https://gitlab.com/AzRunRCE/pop-torrents)
 
 
 ## Preview

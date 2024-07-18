@@ -2,7 +2,7 @@
 name: Logiciel de gestion RDV & planning
 tools: [C#, ReactJS, ASP.NET Core]
 layout: default
-permalink: /projects/gestion-planning
+permalink: /projects/gestion-planning.html
 image: /img/projects/gestion-planning/picto.png
 description: Ce projet a pour but de simplifier un certain nombre de taches nécessaire à l'activité que tient l'un de mes amis. Il s'agit d'une entreprise de nettoyage de véhicule à domicile.
 

@@ -30,17 +30,17 @@ description: Ce projet a pour but de simplifier un certain nombre de taches néc
 </p>
 Ce projet a pour but de simplifier un certain nombre de taches nécessaire à l'activité que tient l'un de mes amis. Il s'agit d'une entreprise de nettoyage de véhicule à domicile.
 
-Ce projet est en production ! et tourne tous les jours ! c'est dispo ici [https://book.star-wash.net/](https://book.star-wash.net/)
+Ce projet **est en production !** et tourne tous les jours ! c'est dispo ici [https://book.star-wash.net/](https://book.star-wash.net/)
 
 Vous habitez à Rennes ou autour de Rennes ? Laissez-vous tenter par un néttoyage Auto en utilisant ma solution de prise de RDV !
 
-Backoffice développé en ASP.NET Core.
+BackOffice développé en ASP.NET Core.
 
-Frontoffice développé en ReactJs.
+FrontOffice développé en ReactJs.
 
  
 ## Caractéristiques
-Code Coverage : 51%  - Architecture propre - Dockerisé
+Code Coverage : **51%**  - Architecture propre - Dockerisé
 
 Cette application permet de
 - 🗓️ Les clients peuvent, en autonomie, réserver une prestation (heure, date, prestation, calcul du tarif)
@@ -55,9 +55,9 @@ Cette application permet de
 
 ## Preview
 ### Frontend
-<div class="embed-container">
+
 <img src="/img/projects/gestion-planning/frontend.gif" class="responsive center" />
-</div>
+
 ### Backend
 <img src="/img/projects/gestion-planning/backend.gif" class="responsive center" />
 

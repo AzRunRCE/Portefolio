@@ -8,6 +8,8 @@ description: Ce projet a pour but de simplifier un certain nombre de taches néc
 
 ---
 
+ <style>.responsive { max-width: 100%; height: auto; } .center { display: block; margin-left: auto; margin-right: auto; } </style>
+
 # Application de prise de RDV et gestion de planning 📆
 <p class="post-metadata text-muted">
  <br>Techno: 
@@ -53,10 +55,11 @@ Cette application permet de
 
 ## Preview
 ### Frontend
-<img src="/img/projects/gestion-planning/frontend.gif" style="height:400px;width:100%;max-width:500px" />
-
+<div class="embed-container">
+<img src="/img/projects/gestion-planning/frontend.gif" class="responsive center" />
+</div>
 ### Backend
-<img src="/img/projects/gestion-planning/backend.gif" style="height:300px;width:100%;max-width:500px" />
+<img src="/img/projects/gestion-planning/backend.gif" class="responsive center" />
 
 
 

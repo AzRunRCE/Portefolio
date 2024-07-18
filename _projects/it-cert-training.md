@@ -2,13 +2,14 @@
 name: Cloud training
 tools: [dart,Flutter]
 layout: default
-permalink: /projects/it-cert-training
+permalink: /projects/it-cert-training.html
 image: /img/projects/it-cert-training/picto.webp
 description: IT Cert Training App, conçue pour réviser et maîtriser les concepts des plateformes Cloud (AWS, Azure et GCP).
 
 ---
 
 # It Cert Training ☁
+ <style>.responsive { max-width: 100%; height: auto; } .center { display: block; margin-left: auto; margin-right: auto; } </style>
 <p class="post-metadata text-muted">
  <br>Techno: 
 <a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#react">
@@ -47,5 +48,5 @@ Code Coverage : **69%**  - Architecture propre - Dockerisé
 
 
 ### Preview (Web App)
-<img src="/img/projects/it-cert-training/it-cert-training.gif" style="height:300px;width:100%;max-width:500px" />
+<img src="/img/projects/it-cert-training/it-cert-training.gif" class="responsive center" />
 

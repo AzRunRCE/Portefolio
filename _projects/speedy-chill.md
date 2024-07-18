@@ -2,12 +2,13 @@
 name: Speedy-Chill Movies Project
 tools: [C#, ReactJS, Jackett]
 layout: default
-permalink: /projects/speedy-chill
+permalink: /projects/speedy-chill.html
 image: /img/projects/speedy-chill/speedy-chill-home.png
 description: Ce projet à pour but de télécharger de films en quelques click!.
 ---
 
 # Speedy-Chill 🎥
+<style>.responsive { max-width: 100%; height: auto; }</style>
 <p class="post-metadata text-muted">
  <br>Techno: 
 <a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#react">
@@ -46,7 +47,7 @@ Liens utiles 🌐
 
 
 ## Preview
-<img src="/img/projects/speedy-chill/speedy-chill.gif" style="heigth:100px;max-width:300px;" />
+<img src="/img/projects/speedy-chill/speedy-chill.gif"  class="responsive" />
 
 
 

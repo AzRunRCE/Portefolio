@@ -96,9 +96,10 @@ L'application était disponible gratuitement sur iOS et Android, et avait dépas
 </div>
 
 
-## Références
+### Références
 - [Ouest-France](https://www.ouest-france.fr/bretagne/rennes-35000/football-a-27-ans-ce-rennais-a-cree-une-appli-pour-suivre-les-clubs-amateurs-bretons-e48fcf64-d070-11ec-9a5d-1e5046ed7ce7)
 - [Play Store](https://play.google.com/store/apps/details?id=com.thestadium)
+
 ### Retour d'Expérience (REX)
 
 Dans cette aventure j'ai beaucoup appris des défis techniques rencontrés.
@@ -109,7 +110,7 @@ Une mise à jour peut parfois provoquer un bug critique, et les utilisateurs son
 Cette expérience m'a poussé à me concentrer sur la qualité logicielle. 
 Voir un bug affecter des centaines d'utilisateurs est extrêmement stressant, je vous le garanti !.
 
-**Solution :** Le vivre personellement ou lire [Robert C. Martin](https://www.amazon.fr/Architecture-logicielle-propre-Robert-C-Martin/dp/2326002679).
+**Solution :** Le vivre personnellement ou lire [Robert C. Martin](https://www.amazon.fr/Architecture-logicielle-propre-Robert-C-Martin/dp/2326002679).
 
 2. **Scalabilité** : Concevoir une architecture backend capable de gérer une croissance des utilisateurs est crucial. La modularité et l'évolutivité doivent être intégrées dès le début.
 3. **Notifications Push** : Assurer des notifications fiables et pertinentes a nécessité de peaufiner la logique pour offrir une expérience utilisateur engageante sans être intrusive.
@@ -124,7 +125,7 @@ Ces enseignements techniques nous serviront pour mes futurs projets, me permetta
 <script>
   const swiper = new Swiper('.swiper', {
   // Optional parameters
-  direction: 'vertical',
+  direction: 'horizontal',
   loop: true,
   slidesPerView: 2,
   spaceBetween: 15,

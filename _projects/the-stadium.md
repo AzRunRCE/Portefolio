@@ -13,7 +13,13 @@ description: The Stadium, une application dédiée à la communauté des clubs d
 .center { display: block; margin-left: auto; margin-right: auto; } 
 .swiper {
     width: 100%;
-    height: 800px;
+    height: 600px;
+}
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
 }
 </style>
 <link
@@ -41,12 +47,13 @@ description: The Stadium, une application dédiée à la communauté des clubs d
 </a>
 </p>
 
-### The Stadium: Une Aventure Entrepreneuriale Passionnante
+### The Stadium - Une Aventure Entrepreneuriale Passionnante
 
 Victor, fondateur de The Stadium, m'a sollicité pour le développement de son application. Pendant trois ans, sur mon temps libre, j'ai travaillé avec passion sur ce projet. C'était très excitant de recevoir une telle mission de la part d'un entrepreneur ambitieux.
 
 Aujourd'hui, faute de financement et de partenariats solides, le projet a été arrêté.
 Cependant, cette aventure a été extrêmement enrichissante pour Victor et moi. Nous avons acquis de l'expérience en conception de produit, marketing et gestion des défis techniques. 
+
 Victor se consacre désormais à de nouveaux projets en acquisition de trafic, 
 tandis que de mon côté, je prépare ma revanche avec un tout autre produit.
 
@@ -66,7 +73,6 @@ L'application The Stadium, développée avec React Native et Firebase, offrait d
 - 🗓️ **Résumé du Week-end** : Recevez un récapitulatif des performances de votre équipe et des matchs du week-end.
 - 👥 **Coups de Cœur** : Votez pour élire le meilleur joueur.
 
-## Soutien et Développement
 L'application était disponible gratuitement sur iOS et Android, et avait dépassé les 8 000 téléchargements.
 
 ### Preview (Mobile App)
@@ -74,7 +80,7 @@ L'application était disponible gratuitement sur iOS et Android, et avait dépas
   <!-- Additional required wrapper -->
   <div class="swiper-wrapper">
     <!-- Slides -->
-    <div class="swiper-slide"><img  src="/img/projects/the-stadium/the-stadium-app_1.webp"/> </div>
+    <div class="swiper-slide"><img heigth src="/img/projects/the-stadium/the-stadium-app-1.webp"/> </div>
     <div class="swiper-slide"><img  src="/img/projects/the-stadium/the-stadium-app-5.webp"/> </div>
     <div class="swiper-slide"><img  src="/img/projects/the-stadium/the-stadium-app-2.webp"/> </div>
     <div class="swiper-slide"><img  src="/img/projects/the-stadium/the-stadium-app-4.webp"/> </div>
@@ -92,21 +98,38 @@ L'application était disponible gratuitement sur iOS et Android, et avait dépas
 
 ## Références
 - [Ouest-France](https://www.ouest-france.fr/bretagne/rennes-35000/football-a-27-ans-ce-rennais-a-cree-une-appli-pour-suivre-les-clubs-amateurs-bretons-e48fcf64-d070-11ec-9a5d-1e5046ed7ce7)
-- [Play Store](https://play.google.com/store/apps/details?id=com.thestadium]
+- [Play Store](https://play.google.com/store/apps/details?id=com.thestadium)
 ### Retour d'Expérience (REX)
 
-Dans cette aventure j'ai beaucoup appris des défis techniques rencontrés. Voici mes cinq enseignements :
+Dans cette aventure j'ai beaucoup appris des défis techniques rencontrés.
+Voici mes cinq enseignements :
 
 1. **Qualité** : En tant que startup avec des moyens limités, il est difficile de produire rapidement sans sacrifier la qualité. 
 Une mise à jour peut parfois provoquer un bug critique, et les utilisateurs sont impitoyables : si ça ne marche pas, c'est fini.
 Cette expérience m'a poussé à me concentrer sur la qualité logicielle. 
 Voir un bug affecter des centaines d'utilisateurs est extrêmement stressant, je vous le garanti !.
+
 **Solution :** Le vivre personellement ou lire [Robert C. Martin](https://www.amazon.fr/Architecture-logicielle-propre-Robert-C-Martin/dp/2326002679).
 
 2. **Scalabilité** : Concevoir une architecture backend capable de gérer une croissance des utilisateurs est crucial. La modularité et l'évolutivité doivent être intégrées dès le début.
 3. **Notifications Push** : Assurer des notifications fiables et pertinentes a nécessité de peaufiner la logique pour offrir une expérience utilisateur engageante sans être intrusive.
-**Solution :** Pour ces deux points lisez les [excellents Livres](https://www.amazon.fr/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) de [ByteByteGo](https://bytebytego.com/)
+
+  **Solution :** Pour ces deux points lisez les [excellents Livres](https://www.amazon.fr/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) de [ByteByteGo](https://bytebytego.com/)
 
 4. **Agilité/Engagement** : Impliquez vos utilisateurs dès le début. Mettez en place un système de feedback rapide et surtout accessible depuis n'importe où. Un email, c'est "trop lent".
 
 Ces enseignements techniques nous serviront pour mes futurs projets, me permettant de mieux anticiper et surmonter les défis.
+
+
+<script>
+  const swiper = new Swiper('.swiper', {
+  // Optional parameters
+  direction: 'vertical',
+  loop: true,
+  slidesPerView: 2,
+  spaceBetween: 15,
+  centerSlide: 'true',
+  fade: 'true',
+
+});
+  </script>

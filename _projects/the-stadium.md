@@ -49,7 +49,7 @@ description: The Stadium, une application dédiée à la communauté des clubs d
 
 ### The Stadium - Une Aventure Entrepreneuriale Passionnante
 
-Victor, fondateur de The Stadium, m'a sollicité pour le développement de son application. Pendant trois ans, sur mon temps libre, j'ai travaillé avec passion sur ce projet. C'était très excitant de recevoir une telle mission de la part d'un entrepreneur ambitieux.
+En 2019, Victor, fondateur de The Stadium, m'a sollicité pour le développement de son application. Pendant trois ans, sur mon temps libre, j'ai travaillé avec passion sur ce projet. C'était très excitant de recevoir une telle mission de la part d'un entrepreneur ambitieux, et puis c'était **mon premier contrat** freelance que j'ai décroché !
 
 Aujourd'hui, faute de financement et de partenariats solides, le projet a été arrêté.
 Cependant, cette aventure a été extrêmement enrichissante pour Victor et moi. Nous avons acquis de l'expérience en conception de produit, marketing et gestion des défis techniques. 
@@ -131,6 +131,26 @@ Ces enseignements techniques nous serviront pour mes futurs projets, me permetta
   spaceBetween: 15,
   centerSlide: 'true',
   fade: 'true',
+  pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+      dynamicBullets: true,
+  },
+  navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+  },
+  breakpoints:{
+        0: {
+            slidesPerView: 1,
+        },
+        520: {
+            slidesPerView: 2,
+        },
+        1024: {
+            slidesPerView: 3,
+        },
+    },
 
 });
   </script>

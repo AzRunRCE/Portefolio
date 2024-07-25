@@ -8,25 +8,11 @@ description: The Stadium, une application dédiée à la communauté des clubs d
 ---
 
 # The Stadium ⚽
-<style>
-.responsive { max-width: 100%; height: auto; } 
-.center { display: block; margin-left: auto; margin-right: auto; } 
-.swiper {
-    width: 100%;
-    height: 600px;
-}
-.swiper-slide img {
-    display: block;
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-}
-</style>
+
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
 />
-
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <p class="post-metadata text-muted">
  <br>Techno: 

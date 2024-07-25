@@ -8,7 +8,14 @@ description: The Stadium, une application dédiée à la communauté des clubs d
 ---
 
 # The Stadium ⚽
-<style>.responsive { max-width: 100%; height: auto; } .center { display: block; margin-left: auto; margin-right: auto; } </style>
+<style>
+.responsive { max-width: 100%; height: auto; } 
+.center { display: block; margin-left: auto; margin-right: auto; } 
+.swiper {
+    width: 100%;
+    height: 800px;
+}
+</style>
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
@@ -67,9 +74,13 @@ L'application était disponible gratuitement sur iOS et Android, et avait dépas
   <!-- Additional required wrapper -->
   <div class="swiper-wrapper">
     <!-- Slides -->
-    <div class="swiper-slide"><img  src=".img/projects/the-stadium/the-stadium-app_1.webp"/> </div>
-    <div class="swiper-slide"><img  src=".img/projects/the-stadium/the-stadium-app_2.webp"/></div>
-    <div class="swiper-slide"><img  src=".img/projects/the-stadium/the-stadium-app_3.webp"/></div>
+    <div class="swiper-slide"><img  src="/img/projects/the-stadium/the-stadium-app_1.webp"/> </div>
+    <div class="swiper-slide"><img  src="/img/projects/the-stadium/the-stadium-app-5.webp"/> </div>
+    <div class="swiper-slide"><img  src="/img/projects/the-stadium/the-stadium-app-2.webp"/> </div>
+    <div class="swiper-slide"><img  src="/img/projects/the-stadium/the-stadium-app-4.webp"/> </div>
+    <div class="swiper-slide"><img  src="/img/projects/the-stadium/the-stadium-app-6.webp"/> </div>
+    <div class="swiper-slide"><img  src="/img/projects/the-stadium/the-stadium-app-7.webp"/> </div>
+    <div class="swiper-slide"><img  src="/img/projects/the-stadium/the-stadium-app-8.webp"/> </div>
   </div>
   <!-- If we need pagination -->
   <div class="swiper-pagination"></div>

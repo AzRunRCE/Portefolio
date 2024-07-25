@@ -43,13 +43,16 @@ description: The Stadium, une application dédiée à la communauté des clubs d
     <span class="tag badge badge-pill text-primary border border-primary">Mobile Development</span>
 </a>
 <a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#football">
+    <span class="tag badge badge-pill text-primary border border-primary">.NET</span>
+</a>
+<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#football">
     <span class="tag badge badge-pill text-primary border border-primary">Football</span>
 </a>
 </p>
 
 ### The Stadium - Une Aventure Entrepreneuriale Passionnante
 
-En 2019, Victor, fondateur de The Stadium, m'a sollicité pour le développement de son application. Pendant trois ans, sur mon temps libre, j'ai travaillé avec passion sur ce projet. C'était très excitant de recevoir une telle mission de la part d'un entrepreneur ambitieux, et puis c'était **mon premier contrat** freelance que j'ai décroché !
+En 2019, Victor, fondateur de The Stadium, m'a sollicité pour le développement de son application. Pendant trois ans, sur mon temps libre, j'ai travaillé avec passion sur ce projet. C'était très excitant de recevoir une telle mission de la part d'un entrepreneur ambitieux, et puis c'était **mon premier contrat** freelance !
 
 Aujourd'hui, faute de financement et de partenariats solides, le projet a été arrêté.
 Cependant, cette aventure a été extrêmement enrichissante pour Victor et moi. Nous avons acquis de l'expérience en conception de produit, marketing et gestion des défis techniques. 
@@ -119,7 +122,7 @@ Voir un bug affecter des centaines d'utilisateurs est extrêmement stressant, je
 
 4. **Agilité/Engagement** : Impliquez vos utilisateurs dès le début. Mettez en place un système de feedback rapide et surtout accessible depuis n'importe où. Un email, c'est "trop lent".
 
-Ces enseignements techniques nous serviront pour mes futurs projets, me permettant de mieux anticiper et surmonter les défis.
+Ces enseignements techniques me serviront pour mes futurs projets, me permettant de mieux anticiper et surmonter les défis.
 
 
 <script>

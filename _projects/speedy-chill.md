@@ -4,7 +4,7 @@ tools: [C#, ReactJS, Jackett]
 layout: default
 permalink: /projects/speedy-chill.html
 image: /img/projects/speedy-chill/speedy-chill-home.png
-description: Ce projet à pour but de télécharger de films en quelques click!.
+description: Une app qui me permet télécharger des films en quelques click!.
 ---
 
 # Speedy-Chill 🎥

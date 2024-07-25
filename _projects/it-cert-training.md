@@ -28,13 +28,13 @@ description: IT Cert Training App, conçue pour réviser et maîtriser les conce
 </a>
 </p>
 
-Parce que je souhaite maitriser les concepts clé du cloud, je prévois de passer la certification AWS Developper, il me fallait alors une application qui me permet de m'entrainer ici ou la dès que j'ai un peu de temps !  J'ai donc dévéloppé cette app en Flutter !
+Afin de maîtriser les concepts clés du cloud, je me prépare à passer la certification AWS Developer. Pour m'entraîner à tout moment, j'avais besoin d'une application pratique. C'est ainsi que j'ai développé cette application en Flutter !
 
-Ce projet **est en production** ! et tourne tous les jours ! c'est dispo ici [https://cloud-learning.qmartinez.com/](https://cloud-learning.qmartinez.com/)
+Ce projet est désormais en production et fonctionne quotidiennement. Vous pouvez y accéder ici : https://cloud-learning.qmartinez.com.
 
 Créez un compte et testez vos connaissances en cloud !
 
-Comme c'est une application Flutter elle est déployable sur Android, Windows, Mac, Ios et Web !
+Grâce à Flutter, cette application est déployable sur Android, Windows, Mac, iOS et le web !
 
 ## Caractéristiques
 

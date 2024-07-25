@@ -9,7 +9,7 @@ description: IT Cert Training App, conçue pour réviser et maîtriser les conce
 ---
 
 # It Cert Training ☁
- <style>.responsive { max-width: 100%; height: auto; } .center { display: block; margin-left: auto; margin-right: auto; } </style>
+
 <p class="post-metadata text-muted">
  <br>Techno: 
 <a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#react">

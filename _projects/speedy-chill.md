@@ -8,7 +8,7 @@ description: Une app qui me permet télécharger des films en quelques click!.
 ---
 
 # Speedy-Chill 🎥
-<style>.responsive { max-width: 100%; height: auto; }</style>
+
 <p class="post-metadata text-muted">
  <br>Techno: 
 <a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#react">

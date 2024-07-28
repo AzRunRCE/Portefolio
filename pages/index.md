@@ -9,7 +9,7 @@ permalink: /
 Salut, moi c'est **{{ site.author.name }}** :wave:,<br>
 
 Développeur .NET depuis 2018, j'interviens sur des missions de développement logiciel, de création d'applications mobiles avec Flutter, ainsi que de migration vers le cloud.
-Je porte une attention particulière à concevoir architectures logicielles testables.
+Je porte une attention particulière à concevoir des architectures logicielles testables.
 
 
 

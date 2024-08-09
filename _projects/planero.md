@@ -17,6 +17,11 @@ description: Découvrez Planero, mon premier SAS ! Un logiciel de réservation e
 } </style>
 
 # Planero - L'ERP pour les indépendants et les PME. 📆
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+/>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <p class="post-metadata text-muted">
  <br>Techno: 
 <a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#react">

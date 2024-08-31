@@ -3,7 +3,7 @@ name: Planero - L'ERP pour les indépendants et les PME.
 tools: [C#, ReactJS, ASP.NET Core]
 layout: default
 permalink: /projects/planero.html
-image: /img/projects/gestion-planning/picto.png
+image: /img/projects/planero/picto.png
 description: Découvrez Planero, mon premier SAS ! Un logiciel de réservation et de facturation conçu pour les indépendants et les PME. 
 
 ---
@@ -85,11 +85,14 @@ Planero permet de
   <!-- Additional required wrapper -->
   <div class="swiper-wrapper">
     <!-- Slides -->
-        <div class="swiper-slide"><img heigth src="/img/projects/gestion-planning/image0.png"/> </div>
-        <div class="swiper-slide"><img heigth src="/img/projects/gestion-planning/image1.png"/> </div>
-        <div class="swiper-slide"><img heigth src="/img/projects/gestion-planning/image2.png"/> </div>
-        <div class="swiper-slide"><img heigth src="/img/projects/gestion-planning/image3.png"/> </div>
-        <div class="swiper-slide"><img heigth src="/img/projects/gestion-planning/image4.png"/> </div>
+       <!--  <div class="swiper-slide"><img heigth src="/img/projects/planero/propre-et-net.png"/> </div> -->
+        <div class="swiper-slide"><img heigth src="/img/projects/planero/petgroom.png"/> </div>
+        <div class="swiper-slide"><img heigth src="/img/projects/planero/belle-paris.png"/> </div>
+        <div class="swiper-slide"><img heigth src="/img/projects/planero/star-wash.png"/> </div>
+        <div class="swiper-slide"><img heigth src="/img/projects/planero/image0.png"/> </div>
+        <div class="swiper-slide"><img heigth src="/img/projects/planero/image1.png"/> </div>
+        <div class="swiper-slide"><img heigth src="/img/projects/planero/image2.png"/> </div>
+        <div class="swiper-slide"><img heigth src="/img/projects/planero/image3.png"/> </div>
   </div>
   <!-- If we need pagination -->
   <div class="swiper-pagination"></div>

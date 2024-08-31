@@ -1,6 +1,7 @@
 ---
 name: Cloud training
-tools: [dart,Flutter]
+tools: [Flutter]
+tags: [Mobile Development]
 layout: default
 permalink: /projects/it-cert-training.html
 image: /img/projects/it-cert-training/picto.webp
@@ -12,18 +13,18 @@ description: IT Cert Training App, conçue pour réviser et maîtriser les conce
 
 <p class="post-metadata text-muted">
  <br>Techno: 
-<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#react">
+<a class="text-decoration-none no-underline" href="/projects/tools#react">
     <span class="tag badge badge-pill text-primary border border-primary">Flutter</span>
 </a>
 
-<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#react">
+<a class="text-decoration-none no-underline" href="/projects/tools#react">
     <span class="tag badge badge-pill text-primary border border-primary">Firebase</span>
 </a>
-<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#javascript">
+<a class="text-decoration-none no-underline" href="/projects/tools#javascript">
     <span class="tag badge badge-pill text-primary border border-primary">TDD</span>
 </a>
 
-<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#web-development">
+<a class="text-decoration-none no-underline" href="/projects/tools#web-development">
     <span class="tag badge badge-pill text-primary border border-primary">Domain-Centric</span>
 </a>
 </p>

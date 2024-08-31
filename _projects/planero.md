@@ -23,19 +23,19 @@ description: Découvrez Planero, mon premier SAS ! Un logiciel de réservation e
 />
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <p class="post-metadata text-muted">
- <br>Techno: 
-<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#react">
-    <span class="tag badge badge-pill text-primary border border-primary">React</span>
+ <br>Technologies: 
+<a class="text-decoration-none no-underline" href="/projects/tools#ReactJS">
+    <span class="tag badge badge-pill text-primary border border-primary">ReactJS</span>
 </a>
 
-<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#react">
+<a class="text-decoration-none no-underline" href="/projects/tools#ASP.NET Core">
     <span class="tag badge badge-pill text-primary border border-primary">ASP.NET Core</span>
 </a>
-<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#javascript">
+<a class="text-decoration-none no-underline" href="/projects/tools#Typescript">
     <span class="tag badge badge-pill text-primary border border-primary">Typescript</span>
 </a>
 
-<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#web-development">
+<a class="text-decoration-none no-underline" href="/projects/tools#web-development">
     <span class="tag badge badge-pill text-primary border border-primary">Web Development</span>
 </a>
 </p>

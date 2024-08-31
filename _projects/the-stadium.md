@@ -1,6 +1,7 @@
 ---
 name: Football App
-tools: [React Native, Firebase, Algolia]
+tools: [React Native, Firebase,ASP.NET Core, Algolia]
+tags: [Mobile Development]
 layout: default
 permalink: /projects/the-stadium.html
 image: /img/projects/the-stadium/picto.webp
@@ -15,25 +16,23 @@ description: The Stadium, une application dédiée à la communauté des clubs d
 />
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <p class="post-metadata text-muted">
- <br>Techno: 
-<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#react-native">
+ <br>Technologies: 
+<a class="text-decoration-none no-underline" href="/projects/tools#react-native">
     <span class="tag badge badge-pill text-primary border border-primary">React Native</span>
 </a>
-<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#firebase">
+<a class="text-decoration-none no-underline" href="/projects/tools#firebase">
     <span class="tag badge badge-pill text-primary border border-primary">Firebase</span>
 </a>
-<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#algolia">
+<a class="text-decoration-none no-underline" href="/projects/tools#algolia">
     <span class="tag badge badge-pill text-primary border border-primary">Algolia</span>
 </a>
-<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#mobile-development">
+<a class="text-decoration-none no-underline" href="/projects/tools#mobile-development">
     <span class="tag badge badge-pill text-primary border border-primary">Mobile Development</span>
 </a>
-<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#football">
-    <span class="tag badge badge-pill text-primary border border-primary">.NET</span>
+<a class="text-decoration-none no-underline" href="/projects/tools#asp.net core">
+    <span class="tag badge badge-pill text-primary border border-primary">ASP.NET Core</span>
 </a>
-<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#football">
-    <span class="tag badge badge-pill text-primary border border-primary">Football</span>
-</a>
+
 </p>
 
 ### The Stadium - Une Aventure Entrepreneuriale Passionnante

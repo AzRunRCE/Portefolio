@@ -1,6 +1,6 @@
 ---
 name: Speedy-Chill Movies Project
-tools: [C#, ReactJS, Jackett]
+tools: [C#, ReactJS, ASP.NET Core]
 layout: default
 permalink: /projects/speedy-chill.html
 image: /img/projects/speedy-chill/speedy-chill-home.png
@@ -10,19 +10,19 @@ description: Une app qui me permet télécharger des films en quelques click!.
 # Speedy-Chill 🎥
 
 <p class="post-metadata text-muted">
- <br>Techno: 
-<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#react">
+ <br>Technologies: 
+<a class="text-decoration-none no-underline" href="/projects/tools#react">
     <span class="tag badge badge-pill text-primary border border-primary">React</span>
 </a>
 
-<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#react">
+<a class="text-decoration-none no-underline" href="/projects/tools#react">
     <span class="tag badge badge-pill text-primary border border-primary">React-Native</span>
 </a>
-<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#javascript">
+<a class="text-decoration-none no-underline" href="/projects/tools#javascript">
     <span class="tag badge badge-pill text-primary border border-primary">Typescript</span>
 </a>
 
-<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#web-development">
+<a class="text-decoration-none no-underline" href="/projects/tools#web-development">
     <span class="tag badge badge-pill text-primary border border-primary">Web & Mobile Development</span>
 </a>
 </p>

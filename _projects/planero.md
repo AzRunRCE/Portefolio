@@ -44,7 +44,7 @@ description: Découvrez Planero, mon premier SAS ! Un logiciel de réservation e
 <img src="/img/projects/planero/app-logo.png" class="responsive center" />
 
 
-Ca y est je lance mon premier SAS ! Il s'agit de [planero.fr !](https://planero.fr/)
+Ca y est je lance mon premier SaaS ! Il s'agit de [planero.fr !](https://planero.fr/)
 
 Planero, c'est une solution de réservation et de facturation conçu pour les indépendants et les PME. 
 

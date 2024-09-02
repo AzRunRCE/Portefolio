@@ -1,6 +1,7 @@
 ---
 name: Cloud training
-tools: [dart,Flutter]
+tools: [Flutter]
+tags: [Mobile Development]
 layout: default
 permalink: /projects/it-cert-training.html
 image: /img/projects/it-cert-training/picto.webp
@@ -11,26 +12,26 @@ description: IT Cert Training App, conçue pour réviser et maîtriser les conce
 # It Cert Training ☁
 
 <p class="post-metadata text-muted">
- <br>Techno: 
-<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#react">
+ <br>Technologies: 
+<a class="text-decoration-none no-underline" href="/projects/tools#react">
     <span class="tag badge badge-pill text-primary border border-primary">Flutter</span>
 </a>
 
-<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#react">
+<a class="text-decoration-none no-underline" href="/projects/tools#react">
     <span class="tag badge badge-pill text-primary border border-primary">Firebase</span>
 </a>
-<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#javascript">
+<a class="text-decoration-none no-underline" href="/projects/tools#javascript">
     <span class="tag badge badge-pill text-primary border border-primary">TDD</span>
 </a>
 
-<a class="text-decoration-none no-underline" href="/portfolYOU/projects/tags#web-development">
+<a class="text-decoration-none no-underline" href="/projects/tools#web-development">
     <span class="tag badge badge-pill text-primary border border-primary">Domain-Centric</span>
 </a>
 </p>
 
 Afin de maîtriser les concepts clés du cloud, je me prépare à passer la certification AWS Developer. Pour m'entraîner à tout moment, j'avais besoin d'une application pratique. C'est ainsi que j'ai développé cette application en Flutter !
 
-Ce projet est désormais en production et fonctionne quotidiennement. Vous pouvez y accéder ici : https://cloud-learning.qmartinez.com.
+Ce projet est désormais en production et fonctionne quotidiennement. Vous pouvez y accéder ici : [https://cloud-learning.qmartinez.com](https://cloud-learning.qmartinez.com).
 
 Créez un compte et testez vos connaissances en cloud !
 

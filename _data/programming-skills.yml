@@ -1,0 +1,11 @@
+- name: C# .NET
+  percentage: 90
+  color: danger
+
+- name: Flutter
+  percentage: 80
+  color:
+
+- name: Python
+  percentage: 70
+  color: secondary

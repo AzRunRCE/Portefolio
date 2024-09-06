@@ -1,0 +1,53 @@
+- title: FORTIL - Developpeur FullStack .NET
+  from: février 2021
+  to: aujourd'hui
+  location: Rennes, Bretagne, France
+  description: |
+    Développement d'une application cross-plateforme mobile, de son backend avec son intégration cloud. Il s’agit d'une application de diagnostic immobilier développée en flutter.
+
+- title: The Stadium - Développeur Full Stack (Mobile)
+  from: juin 2019
+  to: septembre 2022
+  location: Région de Nantes, France · À distance
+  description: |
+    Sur mon temps libre développement d'une application (Android/iOS) pour le compte d'un client en free-lance. Développée en React-Native ainsi qu'un backend API Rest en ASP.NET Core.
+
+
+- title: FP FINANCES - Développeur Full Stack
+  from: septembre 2020
+  to: décembre 2020
+  location: Freelance
+  description: |
+    Évolution d’un ERP (App Web). Génération de documents en masse et un suivi de progression en temps réel. Scalabilité et haute performance.
+
+- title: Conseil Investissement Innovation - Développeur Full Stack
+  from: août 2018
+  to: août 2020
+  location: Région de Nantes, France
+  description: |
+    Amélioration de la sécurité, XSS, Upload Arbitraire, mauvaise configuration. Développement continu d’un ERP pour le suivi des encours clients. Mise en place d’une intégration continue avec Azure DevOps.
+
+- title: OBERTHUR FIDUCIAIRE SAS - Développeur logiciels (Junior C#)
+  from: août 2016
+  to: juillet 2018
+  location: Rennes, Bretagne, France · Sur site
+  description: |
+    Développement continu d'un ERP au sein d’une équipe de 6 personnes en méthodologie agile dans le domaine de l’impression fiduciaire.
+
+- title: ENI Ecole Informatique
+  description: Concepteur Développeur Informatique RNCP Niv. II
+  field: Informatique
+  from: 2018
+  to: 2020
+
+- title: ÉCOLES AFTEC
+  degree: BTS SIO (Solutions logicielles et applications métiers)
+  description: Informatique
+  from: 2016
+  to: 2018
+
+- title: 42
+  program: Programmation / développeur informatique
+  description:  Réecriture des librairies standard du language C.
+  from: 2016
+  to: (3 Mois)

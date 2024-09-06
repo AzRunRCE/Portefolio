@@ -4,7 +4,7 @@ tools: [Flutter, ASP.NET Core, Azure, Docker, Kubernetes]
 tags: [Mobile Development]
 layout: default
 permalink: /projects/diaginbox.html
-image: /img/projects/diaginbox/picto.png
+image: img/projects/diaginbox/picto.png
 description: DiagINBOX, une solution digitale pour les diagnostiqueurs immobiliers.
 ---
 
@@ -16,22 +16,22 @@ description: DiagINBOX, une solution digitale pour les diagnostiqueurs immobilie
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <p class="post-metadata text-muted">
  <br>Technologies : 
-<a class="text-decoration-none no-underline" href="/projects/tools#flutter">
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#flutter">
     <span class="tag badge badge-pill text-primary border border-primary">Flutter</span>
 </a>
-<a class="text-decoration-none no-underline" href="/projects/tools#dot-net-core">
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#dot-net-core">
     <span class="tag badge badge-pill text-primary border border-primary">ASP.NET Core</span>
 </a>
-<a class="text-decoration-none no-underline" href="/projects/tools#azure">
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#azure">
     <span class="tag badge badge-pill text-primary border border-primary">Azure</span>
 </a>
-<a class="text-decoration-none no-underline" href="/projects/tools#docker">
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#docker">
     <span class="tag badge badge-pill text-primary border border-primary">Docker</span>
 </a>
-<a class="text-decoration-none no-underline" href="/projects/tools#mobile-development">
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#mobile-development">
     <span class="tag badge badge-pill text-primary border border-primary">Mobile Development</span>
 </a>
-<a class="text-decoration-none no-underline" href="/projects/tools#kubernetes">
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#kubernetes">
     <span class="tag badge badge-pill text-primary border border-primary">Kubernetes</span>
 </a>
 </p>
@@ -101,9 +101,9 @@ Pour plus d'informations, visitez [la plaquette](https://www.itga.fr/wp-content/
   <!-- Additional required wrapper -->
   <div class="swiper-wrapper">
     <!-- Slides -->
-    <div class="swiper-slide"><img heigth src="/img/projects/diaginbox/login.webp"/> </div>
-    <div class="swiper-slide"><img  src="/img/projects/diaginbox/mobile_main-screen.webp"/> </div>
-    <div class="swiper-slide"><img  src="/img/projects/diaginbox/main_screen.webp"/> </div>
+    <div class="swiper-slide"><img heigth src="/{{ site.baseurl }}img/projects/diaginbox/login.webp"/> </div>
+    <div class="swiper-slide"><img  src="/{{ site.baseurl }}img/projects/diaginbox/mobile_main-screen.webp"/> </div>
+    <div class="swiper-slide"><img  src="/{{ site.baseurl }}img/projects/diaginbox/main_screen.webp"/> </div>
 
     
   </div>

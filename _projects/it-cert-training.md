@@ -4,7 +4,7 @@ tools: [Flutter]
 tags: [Mobile Development]
 layout: default
 permalink: /projects/it-cert-training.html
-image: /img/projects/it-cert-training/picto.webp
+image: img/projects/it-cert-training/picto.webp
 description: IT Cert Training App, conçue pour réviser et maîtriser les concepts des plateformes Cloud (AWS, Azure et GCP).
 
 ---
@@ -13,18 +13,18 @@ description: IT Cert Training App, conçue pour réviser et maîtriser les conce
 
 <p class="post-metadata text-muted">
  <br>Technologies: 
-<a class="text-decoration-none no-underline" href="/projects/tools#react">
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}/projects/tools#react">
     <span class="tag badge badge-pill text-primary border border-primary">Flutter</span>
 </a>
 
-<a class="text-decoration-none no-underline" href="/projects/tools#react">
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}/projects/tools#react">
     <span class="tag badge badge-pill text-primary border border-primary">Firebase</span>
 </a>
-<a class="text-decoration-none no-underline" href="/projects/tools#javascript">
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}/projects/tools#javascript">
     <span class="tag badge badge-pill text-primary border border-primary">TDD</span>
 </a>
 
-<a class="text-decoration-none no-underline" href="/projects/tools#web-development">
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}/projects/tools#web-development">
     <span class="tag badge badge-pill text-primary border border-primary">Domain-Centric</span>
 </a>
 </p>
@@ -49,5 +49,5 @@ Code Coverage : **69%**  - Architecture propre - Dockerisé
 
 
 ### Preview (Web App)
-<img src="/img/projects/it-cert-training/it-cert-training.gif" class="responsive center" />
+<img src="/{{ site.baseurl }}img/projects/it-cert-training/it-cert-training.gif" class="responsive center" />
 

@@ -3,7 +3,7 @@ name: Speedy-Chill Movies Project
 tools: [C#, ReactJS, ASP.NET Core]
 layout: default
 permalink: /projects/speedy-chill.html
-image: /img/projects/speedy-chill/speedy-chill-home.png
+image: img/projects/speedy-chill/speedy-chill-home.png
 description: Une app qui me permet télécharger des films en quelques click!.
 ---
 
@@ -11,18 +11,18 @@ description: Une app qui me permet télécharger des films en quelques click!.
 
 <p class="post-metadata text-muted">
  <br>Technologies: 
-<a class="text-decoration-none no-underline" href="/projects/tools#react">
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#react">
     <span class="tag badge badge-pill text-primary border border-primary">React</span>
 </a>
 
-<a class="text-decoration-none no-underline" href="/projects/tools#react">
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#react">
     <span class="tag badge badge-pill text-primary border border-primary">React-Native</span>
 </a>
-<a class="text-decoration-none no-underline" href="/projects/tools#javascript">
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#javascript">
     <span class="tag badge badge-pill text-primary border border-primary">Typescript</span>
 </a>
 
-<a class="text-decoration-none no-underline" href="/projects/tools#web-development">
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#web-development">
     <span class="tag badge badge-pill text-primary border border-primary">Web & Mobile Development</span>
 </a>
 </p>
@@ -47,7 +47,7 @@ Liens utiles 🌐
 
 
 ## Preview
-<img src="/img/projects/speedy-chill/speedy-chill.gif"  class="responsive" />
+<img src="/{{ site.baseurl }}img/projects/speedy-chill/speedy-chill.gif"  class="responsive" />
 
 
 

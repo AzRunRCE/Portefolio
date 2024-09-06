@@ -4,7 +4,7 @@ tools: [React Native, Firebase,ASP.NET Core, Algolia]
 tags: [Mobile Development]
 layout: default
 permalink: /projects/the-stadium.html
-image: /img/projects/the-stadium/picto.webp
+image: img/projects/the-stadium/picto.webp
 description: The Stadium, une application dédiée à la communauté des clubs de football amateurs en Bretagne.
 ---
 
@@ -17,19 +17,19 @@ description: The Stadium, une application dédiée à la communauté des clubs d
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <p class="post-metadata text-muted">
  <br>Technologies: 
-<a class="text-decoration-none no-underline" href="/projects/tools#react-native">
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#react-native">
     <span class="tag badge badge-pill text-primary border border-primary">React Native</span>
 </a>
-<a class="text-decoration-none no-underline" href="/projects/tools#firebase">
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#firebase">
     <span class="tag badge badge-pill text-primary border border-primary">Firebase</span>
 </a>
-<a class="text-decoration-none no-underline" href="/projects/tools#algolia">
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#algolia">
     <span class="tag badge badge-pill text-primary border border-primary">Algolia</span>
 </a>
-<a class="text-decoration-none no-underline" href="/projects/tools#mobile-development">
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#mobile-development">
     <span class="tag badge badge-pill text-primary border border-primary">Mobile Development</span>
 </a>
-<a class="text-decoration-none no-underline" href="/projects/tools#asp.net core">
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#asp.net core">
     <span class="tag badge badge-pill text-primary border border-primary">ASP.NET Core</span>
 </a>
 
@@ -68,13 +68,13 @@ L'application était disponible gratuitement sur iOS et Android, et avait dépas
   <!-- Additional required wrapper -->
   <div class="swiper-wrapper">
     <!-- Slides -->
-    <div class="swiper-slide"><img heigth src="/img/projects/the-stadium/the-stadium-app-1.webp"/> </div>
-    <div class="swiper-slide"><img  src="/img/projects/the-stadium/the-stadium-app-5.webp"/> </div>
-    <div class="swiper-slide"><img  src="/img/projects/the-stadium/the-stadium-app-2.webp"/> </div>
-    <div class="swiper-slide"><img  src="/img/projects/the-stadium/the-stadium-app-4.webp"/> </div>
-    <div class="swiper-slide"><img  src="/img/projects/the-stadium/the-stadium-app-6.webp"/> </div>
-    <div class="swiper-slide"><img  src="/img/projects/the-stadium/the-stadium-app-7.webp"/> </div>
-    <div class="swiper-slide"><img  src="/img/projects/the-stadium/the-stadium-app-8.webp"/> </div>
+    <div class="swiper-slide"><img heigth src="/{{ site.baseurl }}img/projects/the-stadium/the-stadium-app-1.webp"/> </div>
+    <div class="swiper-slide"><img  src="/{{ site.baseurl }}img/projects/the-stadium/the-stadium-app-5.webp"/> </div>
+    <div class="swiper-slide"><img  src="/{{ site.baseurl }}img/projects/the-stadium/the-stadium-app-2.webp"/> </div>
+    <div class="swiper-slide"><img  src="/{{ site.baseurl }}img/projects/the-stadium/the-stadium-app-4.webp"/> </div>
+    <div class="swiper-slide"><img  src="/{{ site.baseurl }}img/projects/the-stadium/the-stadium-app-6.webp"/> </div>
+    <div class="swiper-slide"><img  src="/{{ site.baseurl }}img/projects/the-stadium/the-stadium-app-7.webp"/> </div>
+    <div class="swiper-slide"><img  src="/{{ site.baseurl }}img/projects/the-stadium/the-stadium-app-8.webp"/> </div>
   </div>
   <!-- If we need pagination -->
   <div class="swiper-pagination"></div>

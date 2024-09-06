@@ -8,6 +8,7 @@ on:
   push:
     branches:
       - qmartinez_com
+      - master
 
 jobs:
   build:
@@ -27,6 +28,9 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: 3.0.0
+
+    - name: Remove Prefix Portefolio
+      run: sed -i 's/Portefolio//g' _config.yml
 
     - name: Install Jekyll and Bundler
       run: gem install jekyll bundler

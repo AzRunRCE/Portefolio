@@ -50,7 +50,7 @@ Planero, c'est une solution de réservation et de facturation conçu pour les in
 
 Gérez vos réservations, vos clients et vos factures en toute simplicité avec ma solution tout-en-un.
 
-Ce projet est désormais **en production** et fonctionne quotidiennement. Vous pouvez y accéder ici : [demo.book.planero.fr](https://demo.book.planero.fr/)
+Ce projet est désormais **en production** et fonctionne quotidiennement. Vous pouvez y accéder ici : [demo.book.planero.fr](https://demo.book.planero.fr/?locataireId=esprit-sportif)
 
 Vous habitez à Rennes ou autour de Rennes ? Laissez-vous tenter par un néttoyage Auto à domicile avec mon premier client [Star Wash Rennes](https://www.site.star-wash.net/) !
 

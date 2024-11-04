@@ -11,6 +11,11 @@ description: IT Cert Training App, conçue pour réviser et maîtriser les conce
 
 # It Cert Training ☁
 
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+/>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <p class="post-metadata text-muted">
  <br>Technologies: 
 <a class="text-decoration-none no-underline" href="/{{ site.baseurl }}/projects/tools#react">
@@ -50,6 +55,58 @@ Code Coverage : **69%**  - Architecture propre - Dockerisé
 - 📅 Accédez rapidement à vos sessions de révision récentes pour une révision continue.
 
 
-### Preview (Web App)
-<img src="/{{ site.baseurl }}img/projects/it-cert-training/it-cert-training.gif" class="responsive center" />
+### Preview (Mobile App)
+<div class="swiper">
+  <!-- Additional required wrapper -->
+  <div class="swiper-wrapper">
+    <!-- Slides -->
+    <div class="swiper-slide"><img heigth src="/img/projects/it-cert-training/IMG_1532-portrait.png"/> </div>
+    <div class="swiper-slide"><img  src="/img/projects/it-cert-training/IMG_1531-portrait.png"/> </div>
+    <div class="swiper-slide"><img  src="/img/projects/it-cert-training/IMG_1530-portrait.png"/> </div>
+    <div class="swiper-slide"><img  src="/img/projects/it-cert-training/IMG_1529-portrait.png"/> </div>
+    <div class="swiper-slide"><img  src="/img/projects/it-cert-training/IMG_1527-portrait.png"/> </div>
+    <div class="swiper-slide"><img   src="/img/projects/it-cert-training/IMG_1528-portrait.png"/> </div>
+ 
+  </div>
+  <!-- If we need pagination -->
+  <div class="swiper-pagination"></div>
 
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-button-next"></div>
+</div>
+
+
+
+
+<script>
+  const swiper = new Swiper('.swiper', {
+  // Optional parameters
+  direction: 'horizontal',
+  loop: true,
+  slidesPerView: 2,
+  spaceBetween: 15,
+  centerSlide: 'true',
+  fade: 'true',
+  pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+      dynamicBullets: true,
+  },
+  navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+  },
+  breakpoints:{
+        0: {
+            slidesPerView: 1,
+        },
+        520: {
+            slidesPerView: 2,
+        },
+        1024: {
+            slidesPerView: 3,
+        },
+    },
+
+});
+  </script>

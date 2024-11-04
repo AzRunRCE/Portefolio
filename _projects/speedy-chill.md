@@ -1,6 +1,6 @@
 ---
 name: Speedy-Chill Movies Project
-tools: [.NET, C#, ASP.NET Core, ReactJS, React-Native]
+tools: [.NET, C#, ASP.NET Core, ReactJS, React Native]
 layout: default
 permalink: /projects/speedy-chill.html
 image: img/projects/speedy-chill/speedy-chill-home.png
@@ -21,7 +21,7 @@ description: Une app qui me permet télécharger des films en quelques click!.
     <span class="tag badge badge-pill text-primary border border-primary">ASP.NET Core</span>
 </a>
 <a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#ReactJS">
-    <span class="tag badge badge-pill text-primary border border-primary">React.js</span>
+    <span class="tag badge badge-pill text-primary border border-primary">ReactJS</span>
 </a>
 <a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#React-Native">
     <span class="tag badge badge-pill text-primary border border-primary">React-Native</span>

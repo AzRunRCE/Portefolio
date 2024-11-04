@@ -1,6 +1,6 @@
 ---
 name: Planero - L'ERP pour les indépendants et les PME. 
-tools: [.NET, C#, ASP.NET Core, Reactjs]
+tools: [.NET, C#, ASP.NET Core, ReactJS]
 layout: default
 permalink: /projects/planero.html
 image: img/projects/planero/picto.png

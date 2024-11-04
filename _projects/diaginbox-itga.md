@@ -66,16 +66,14 @@ Pour plus d'informations, visitez [la plaquette](https://www.itga.fr/wp-content/
 **DiagINBOX** est une solution digitale qui permet aux diagnostiqueurs immobiliers d'améliorer leur performance économique et de transformer leur modèle d'entreprise grâce à un écosystème 100% digital.
 
 ## Contexte de la mission
-
 - **Durée**: 1an et 9mois (février 2021 - novembre 2022)
 - **Lieu**: Rennes
 
-### Management
-
+### Organisation
 - 👬 **Équipe** : 7 membres - 5 devs, 1 scrum master, 1 PO
 - ⚙️ **Méthode** : Scrum & Agile, avec 4 cérémonies : (Sprint Planning Meeting, Daily, Démo, Review)
 
-### Stack Technique
+### Contexte Technique
 
 - **Frameworks** : Flutter, .NET Core
 - **Cloud & Conteneurisation** : Sigma (private-cloud), Docker, Kubernetes

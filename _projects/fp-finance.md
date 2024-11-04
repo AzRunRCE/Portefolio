@@ -16,24 +16,25 @@ description: Pour FP Finance, développement d'un système de campagne d'arbitra
   border-width: .5px;
   border-style: solid;
   border-color: #3474C4;
-  box-shadow: rgba(0, 0, 0, .5) 0 5px 35px -10px
+  box-shadow: rgba(0, 0, 0, .3) 0 5px 35px -10px
 } 
 
-.swiper-wrapper {
+.swiper {
+    margin-left: auto;
+    margin-right: auto;
     position: relative;
-    width: 100%;
-    height: unset;
+    overflow: hidden;
+    list-style: none;
+    padding: 0;
     z-index: 1;
-    display: flex;
-    transition-property: transform;
-    transition-timing-function: var(--swiper-wrapper-transition-timing-function, initial);
-    box-sizing: content-box;
+    display: block;
+    height: unset;
 }
 
 .swiper-slide img {
     display: block;
     width: 100%;
-    height: 100%;
+    height: unset;
 }
 </style>
 
@@ -69,24 +70,25 @@ description: Pour FP Finance, développement d'un système de campagne d'arbitra
 
 ### FP Finance - Une mission à succès (fees)
 
-Après deux années à travailler sur l'outil de suivi des investissements client, j'ai eu l'opportunité de prendre en charge la mise en place d'un système de campagne d'arbitrage à grande échelle pour FP Finance. Ce projet a été une expérience très enrichissante, offrant des défis techniques et une vision approfondie des besoins des Conseillers en Gestion de Patrimoine (CGP).
+Fin 2020, j’ai eu l’opportunité de créer un système de campagnes d’arbitrage pour FP Finance. Ce projet très enrichissant, impliquait des défis techniques et une compréhension approfondie des besoins des conseillers financier.
 
 ## Contexte de la mission
 - ⏳ **Durée**: 4 mois (sept 2020 - déc 2020)
 - 📍 **Lieu**: Nantes
-- 💼 **Engagement**: Cette mission comportait un engagement de résultat débloquant une prime financère en cas de succès. L'outil devait être conforme, déployé avant la fin d'année 2020 et produire jusqu'à 10 documents par minute.
+- 💼 **Engagement**: Cette mission comportait un engagement de résultat. L'outil devait être conforme, déployé avant la fin d'année 2020 et produire jusqu'à 10 documents par minute.
 
 ## FP Finance
 [FP Finance](http://www.fpfinance.fr/) est un leader de la gestion de fortune à Nantes, gérant 300 M€ d'actifs. Spécialisée en ingénierie financière, FP Finance propose un suivi et un conseil financier haut de gamme pour une clientèle prestigieuse.
 
 ## Le métier du conseil financier
-Les conseillers patrimoniaux ont pour mission d'apporter un conseil objectif et stratégique aux clients, les aidant à optimiser leurs placements en fonction de leur situation financière, de leurs projets de vie et de l’actualité économique. Lors d'une consultation ou à l'occasion d'événements financiers majeurs, le conseiller peut proposer des arbitrages qui répondent aux enjeux du client.
+Les conseillers patrimoniaux ont pour mission d'apporter un conseil objectif et stratégique à leurs clients. Ceci dans le but d'optimiser leurs placements en fonction de leur situation financière, de leurs projets de vie et de l’actualité économique. 
+Lors d'une consultation ou à l'occasion d'événements financiers majeurs, le conseiller peut proposer des arbitrages qui répondent aux enjeux du client.
 
 ## Le Rapport Écrit de Conseil (REC)
-Le Rapport Écrit de Conseil (REC) est le document qui formalise la stratégie recommandée à l'issu d'une consultation. Il contient des analyses sur la situation initiale et à venir du client.
+Le REC est le document qui formalise la stratégie recommandée à l'issu d'une consultation. Il contient des analyses sur la situation initiale et préconisée du client.
 
 ## Objectif
-Ma mission avait pour objectif de permettre aux conseillers de FP Finance de planifier des campagnes d'arbitrage tout en garantissant des conseils financiers personnalisés. Il s'agissait donc d'une fonctionnalité majeure à développer intégralement.
+Ma mission consistait à développer un système de campagnes d'arbitrage intégralement.
 
 Une campagne d'arbitrage se déroule en trois étapes:
 
@@ -101,9 +103,9 @@ Une campagne d'arbitrage se déroule en trois étapes:
   <!-- Additional required wrapper -->
   <div class="swiper-wrapper">
     <!-- Slides -->
-    <div class="swiper-slide"><img class="responsive center main-capture" src="/{{ site.baseurl }}img/projects/fp-finance/recherche-clients.png"/> </div>
-    <div class="swiper-slide"><img class="responsive center main-capture" src="/{{ site.baseurl }}img/projects/fp-finance/mouvements.png"/> </div>
-    <div class="swiper-slide"><img class="responsive center main-capture" src="/{{ site.baseurl }}img/projects/fp-finance/suivi-execution.png"/> </div>
+    <div class="swiper-slide"><img class=" center main-capture" src="/{{ site.baseurl }}img/projects/fp-finance/recherche-clients.png"/> </div>
+    <div class="swiper-slide"><img class=" center main-capture" src="/{{ site.baseurl }}img/projects/fp-finance/mouvements.png"/> </div>
+    <div class="swiper-slide"><img class=" center main-capture" src="/{{ site.baseurl }}img/projects/fp-finance/suivi-execution.png"/> </div>
   </div>
   <!-- If we need pagination -->
   <div class="swiper-pagination"></div>
@@ -111,14 +113,12 @@ Une campagne d'arbitrage se déroule en trois étapes:
   <div class="swiper-button-prev"></div>
   <div class="swiper-button-next"></div>
 </div>
-
-
-
-### Management
+<br>
+### Organisation
 - 👬 **Équipe** : 4 membres - 3 devs, 1 DSI
 - ⚙️ **Méthode** : Kanban - Suivi journalier
 
-### Stack Technique
+### Contexte Technique
 
 - **Frameworks** : C#, ASP.NET, RabbitMQ, MSMQ, SignalR websocket, MS SQL
 - **Cloud** : OVH Cloud Api

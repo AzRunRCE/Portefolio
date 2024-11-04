@@ -1,6 +1,6 @@
 ---
 name: Cloud training
-tools: [Flutter]
+tools: [Flutter,Firebase]
 tags: [Mobile Development]
 layout: default
 permalink: /projects/it-cert-training.html

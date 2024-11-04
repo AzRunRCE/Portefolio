@@ -1,6 +1,6 @@
 ---
 name: Football App
-tools: [React Native, Firebase,ASP.NET Core, Algolia]
+tools: [.NET, C#, ASP.NET Core, React Native, Firebase, Algolia]
 tags: [Mobile Development]
 layout: default
 permalink: /projects/the-stadium.html
@@ -17,6 +17,15 @@ description: The Stadium, une application dédiée à la communauté des clubs d
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <p class="post-metadata text-muted">
  <br>Technologies: 
+ <a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#C#">
+    <span class="tag badge badge-pill text-primary border border-primary">C#</span>
+</a>
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#.NET">
+    <span class="tag badge badge-pill text-primary border border-primary">.NET</span>
+</a>
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#aASP.NET Core">
+    <span class="tag badge badge-pill text-primary border border-primary">ASP.NET Core</span>
+</a>
 <a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#react-native">
     <span class="tag badge badge-pill text-primary border border-primary">React Native</span>
 </a>
@@ -29,7 +38,7 @@ description: The Stadium, une application dédiée à la communauté des clubs d
 <a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#mobile-development">
     <span class="tag badge badge-pill text-primary border border-primary">Mobile Development</span>
 </a>
-<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#asp.net core">
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#ASP.NET Core">
     <span class="tag badge badge-pill text-primary border border-primary">ASP.NET Core</span>
 </a>
 

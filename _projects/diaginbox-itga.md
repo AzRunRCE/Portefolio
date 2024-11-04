@@ -1,6 +1,6 @@
 ---
 name: DiagINBOX
-tools: [Flutter, ASP.NET Core, Azure, Docker, Kubernetes]
+tools: [.NET, C#, ASP.NET Core, Flutter, Azure, Docker, Kubernetes]
 tags: [Mobile Development]
 layout: default
 permalink: /projects/diaginbox.html
@@ -16,11 +16,17 @@ description: DiagINBOX, une solution digitale pour les diagnostiqueurs immobilie
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <p class="post-metadata text-muted">
  <br>Technologies : 
+ <a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#C#">
+    <span class="tag badge badge-pill text-primary border border-primary">C#</span>
+</a>
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#.NET">
+    <span class="tag badge badge-pill text-primary border border-primary">.NET</span>
+</a>
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#aASP.NET Core">
+    <span class="tag badge badge-pill text-primary border border-primary">ASP.NET Core</span>
+</a>
 <a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#flutter">
     <span class="tag badge badge-pill text-primary border border-primary">Flutter</span>
-</a>
-<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#dot-net-core">
-    <span class="tag badge badge-pill text-primary border border-primary">ASP.NET Core</span>
 </a>
 <a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#azure">
     <span class="tag badge badge-pill text-primary border border-primary">Azure</span>

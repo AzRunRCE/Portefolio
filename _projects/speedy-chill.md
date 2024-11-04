@@ -1,6 +1,6 @@
 ---
 name: Speedy-Chill Movies Project
-tools: [C#, ReactJS, ASP.NET Core]
+tools: [.NET, C#, ASP.NET Core, ReactJS, React-Native]
 layout: default
 permalink: /projects/speedy-chill.html
 image: img/projects/speedy-chill/speedy-chill-home.png
@@ -11,17 +11,24 @@ description: Une app qui me permet télécharger des films en quelques click!.
 
 <p class="post-metadata text-muted">
  <br>Technologies: 
-<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#react">
-    <span class="tag badge badge-pill text-primary border border-primary">React</span>
+ <a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#C#">
+    <span class="tag badge badge-pill text-primary border border-primary">C#</span>
 </a>
-
-<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#react">
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#.NET">
+    <span class="tag badge badge-pill text-primary border border-primary">.NET</span>
+</a>
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#aASP.NET Core">
+    <span class="tag badge badge-pill text-primary border border-primary">ASP.NET Core</span>
+</a>
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#ReactJS">
+    <span class="tag badge badge-pill text-primary border border-primary">React.js</span>
+</a>
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#React-Native">
     <span class="tag badge badge-pill text-primary border border-primary">React-Native</span>
 </a>
-<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#javascript">
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#Typescript">
     <span class="tag badge badge-pill text-primary border border-primary">Typescript</span>
 </a>
-
 <a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#web-development">
     <span class="tag badge badge-pill text-primary border border-primary">Web & Mobile Development</span>
 </a>

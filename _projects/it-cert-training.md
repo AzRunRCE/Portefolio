@@ -23,9 +23,11 @@ description: IT Cert Training App, conçue pour réviser et maîtriser les conce
 <a class="text-decoration-none no-underline" href="/{{ site.baseurl }}/projects/tools#javascript">
     <span class="tag badge badge-pill text-primary border border-primary">TDD</span>
 </a>
-
 <a class="text-decoration-none no-underline" href="/{{ site.baseurl }}/projects/tools#web-development">
     <span class="tag badge badge-pill text-primary border border-primary">Domain-Centric</span>
+</a>
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#mobile-development">
+    <span class="tag badge badge-pill text-primary border border-primary">Mobile Development</span>
 </a>
 </p>
 

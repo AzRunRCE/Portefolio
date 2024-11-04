@@ -1,6 +1,6 @@
 ---
 name: Planero - L'ERP pour les indépendants et les PME. 
-tools: [C#, ReactJS, ASP.NET Core]
+tools: [.NET, C#, ASP.NET Core, Reactjs]
 layout: default
 permalink: /projects/planero.html
 image: img/projects/planero/picto.png
@@ -24,17 +24,21 @@ description: Découvrez Planero, mon premier SAS ! Un logiciel de réservation e
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <p class="post-metadata text-muted">
  <br>Technologies: 
+ <a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#C#">
+    <span class="tag badge badge-pill text-primary border border-primary">C#</span>
+</a>
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#.NET">
+    <span class="tag badge badge-pill text-primary border border-primary">.NET</span>
+</a>
+<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#aASP.NET Core">
+    <span class="tag badge badge-pill text-primary border border-primary">ASP.NET Core</span>
+</a>
 <a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#ReactJS">
     <span class="tag badge badge-pill text-primary border border-primary">ReactJS</span>
-</a>
-
-<a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#ASP.NET Core">
-    <span class="tag badge badge-pill text-primary border border-primary">ASP.NET Core</span>
 </a>
 <a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#Typescript">
     <span class="tag badge badge-pill text-primary border border-primary">Typescript</span>
 </a>
-
 <a class="text-decoration-none no-underline" href="/{{ site.baseurl }}projects/tools#web-development">
     <span class="tag badge badge-pill text-primary border border-primary">Web Development</span>
 </a>

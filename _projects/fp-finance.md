@@ -9,13 +9,32 @@ description: Pour FP Finance, développement d'un système de campagne d'arbitra
 ---
 
 # Fp Finance - Les campagnes d'arbitrage 📈
- <style>.responsive { max-width: 100%; height: auto; } .center { display: block; margin-left: auto; margin-right: auto; } .main-capture {
+ <style>
+ 
+ .main-capture {
   border-radius: .375rem;
   border-width: .5px;
   border-style: solid;
   border-color: #3474C4;
   box-shadow: rgba(0, 0, 0, .5) 0 5px 35px -10px
-} </style>
+} 
+
+.swiper-wrapper {
+    position: relative;
+    width: 100%;
+    z-index: 1;
+    display: flex;
+    transition-property: transform;
+    transition-timing-function: var(--swiper-wrapper-transition-timing-function, initial);
+    box-sizing: content-box;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+</style>
 
 <link
   rel="stylesheet"
@@ -63,17 +82,12 @@ Après deux années à travailler sur l'outil de suivi des investissements clien
 Les conseillers patrimoniaux ont pour mission d'apporter un conseil objectif et stratégique aux clients, les aidant à optimiser leurs placements en fonction de leur situation financière, de leurs projets de vie et de l’actualité économique. Lors d'une consultation ou à l'occasion d'événements financiers majeurs, le conseiller peut proposer des arbitrages qui répondent aux enjeux du client.
 
 ## Le Rapport Écrit de Conseil (REC)
-Le Rapport Écrit de Conseil (REC) est un document clé en conseil patrimonial, qui formalise la stratégie recommandée à l'issu d'une consultation. Il peut inclure des analyses sur différents produits financiers :
-- **Actions** : Conseils pour réduire la volatilité ou prendre des bénéfices sur les actions performantes.
-- **Obligations** : Recommandations de transition vers les obligations en cas de hausse des taux d’intérêt.
-- **Immobilier** : Suggestions d’investissement en SCPI ou fonds immobiliers pour diversifier le portefeuille du client.
+Le Rapport Écrit de Conseil (REC) est le document qui formalise la stratégie recommandée à l'issu d'une consultation. Il contient des analyses sur la situation initiale et à venir du client.
 
 ## Objectif
 Ma mission avait pour objectif de permettre aux conseillers de FP Finance de planifier des campagnes d'arbitrage tout en garantissant des conseils financiers personnalisés et pertinents. Il s'agissait donc d'une fonctionnalité majeure à développer intégralement.
 
-Lors d'une campagne, les conseillers sélectionnent les clients pour lesquels un arbitrage est pertinent, saisissent l'arbitrage et suivent leur mise en œuvre jusqu'à la signature finale.
-
-La campagne d'arbitrage se déroule en trois étapes clés :
+Une campagne d'arbitrage se déroule en trois étapes clés :
 
 - **Sélection** : Identification des clients concernés selon des critères précis (âge, encours, profil de risque).
 
@@ -81,17 +95,14 @@ La campagne d'arbitrage se déroule en trois étapes clés :
 
 - **Suivi** : Validation, génération automatique du REC et signature numérique pour garantir un suivi optimal.
 
-### Suivi et exécution
-<img src="/{{ site.baseurl }}img/projects/fp-finance/suivi-execution.png" class="responsive center main-capture" />
-
 ### Aperçu
 <div class="swiper">
   <!-- Additional required wrapper -->
   <div class="swiper-wrapper">
     <!-- Slides -->
-    <div class="swiper-slide"><img class="responsive center" src="/{{ site.baseurl }}img/projects/fp-finance/recherche-clients.png"/> </div>
-    <div class="swiper-slide"><img class="responsive center" src="/{{ site.baseurl }}img/projects/fp-finance/mouvements.png"/> </div>
-    <div class="swiper-slide"><img class="responsive center" src="/{{ site.baseurl }}img/projects/fp-finance/suivi-execution.png"/> </div>
+    <div class="swiper-slide"><img class="responsive center main-capture" src="/{{ site.baseurl }}img/projects/fp-finance/recherche-clients.png"/> </div>
+    <div class="swiper-slide"><img class="responsive center main-capture" src="/{{ site.baseurl }}img/projects/fp-finance/mouvements.png"/> </div>
+    <div class="swiper-slide"><img class="responsive center main-capture" src="/{{ site.baseurl }}img/projects/fp-finance/suivi-execution.png"/> </div>
   </div>
   <!-- If we need pagination -->
   <div class="swiper-pagination"></div>
@@ -129,12 +140,10 @@ En tant que développeur .NET principal, j'avais pour responsabilités :
 
 <script>
   const swiper = new Swiper('.swiper', {
-  // Optional parameters
   direction: 'horizontal',
   loop: true,
   slidesPerView: 1,
-  spaceBetween: 15,
-  centerSlide: 'true',
+  centerSlide: true,
   fade: 'true',
   pagination: {
       el: ".swiper-pagination",

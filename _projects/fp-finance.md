@@ -1,11 +1,11 @@
 ---
 name: Football App
 tools: [.NET, C#, ASP.NET Core, OVH Cloud, Firebase, Algolia]
-tags: [Mobile Development]
+tags: [Web Development]
 layout: default
-permalink: /projects/the-stadium.html
-image: img/projects/the-stadium/picto.webp
-description: FP Finance, inplémentation d'un système d'arbitrage à grande échelle.
+permalink: /projects/fp-finance.html
+image: img/projects/fp-finance/logo-black.png
+description: FP Finance, inplémentation d'un système de campgagne d'arbitrage.
 ---
 
 # Fp Finance - Les campagnes d'arbitrage 📈

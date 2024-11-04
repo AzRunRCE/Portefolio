@@ -22,6 +22,7 @@ description: Pour FP Finance, développement d'un système de campagne d'arbitra
 .swiper-wrapper {
     position: relative;
     width: 100%;
+    height: unset;
     z-index: 1;
     display: flex;
     transition-property: transform;
@@ -85,9 +86,9 @@ Les conseillers patrimoniaux ont pour mission d'apporter un conseil objectif et 
 Le Rapport Écrit de Conseil (REC) est le document qui formalise la stratégie recommandée à l'issu d'une consultation. Il contient des analyses sur la situation initiale et à venir du client.
 
 ## Objectif
-Ma mission avait pour objectif de permettre aux conseillers de FP Finance de planifier des campagnes d'arbitrage tout en garantissant des conseils financiers personnalisés et pertinents. Il s'agissait donc d'une fonctionnalité majeure à développer intégralement.
+Ma mission avait pour objectif de permettre aux conseillers de FP Finance de planifier des campagnes d'arbitrage tout en garantissant des conseils financiers personnalisés. Il s'agissait donc d'une fonctionnalité majeure à développer intégralement.
 
-Une campagne d'arbitrage se déroule en trois étapes clés :
+Une campagne d'arbitrage se déroule en trois étapes:
 
 - **Sélection** : Identification des clients concernés selon des critères précis (âge, encours, profil de risque).
 

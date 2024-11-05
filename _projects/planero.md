@@ -4,7 +4,7 @@ tools: [.NET, C#, ASP.NET Core, ReactJS]
 layout: default
 permalink: /projects/planero.html
 image: img/projects/planero/picto.png
-description: Découvrez Planero, mon premier SAS ! Un logiciel de réservation et de facturation conçu pour les indépendants et les PME. 
+description: Découvrez Planero, mon premier SaaS ! Un logiciel de réservation et de facturation conçu pour les PME. 
 
 ---
 

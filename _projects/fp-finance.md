@@ -70,7 +70,7 @@ description: Pour FP Finance, développement d'un système de campagne d'arbitra
 
 ### FP Finance - Une mission à succès (fees)
 
-Fin 2020, j’ai eu l’opportunité de créer un système de campagnes d’arbitrage pour FP Finance. Ce projet très enrichissant, impliquait des défis techniques et une compréhension approfondie des besoins des conseillers financier.
+Fin 2020, j’ai eu l’opportunité de créer un système de campagnes d’arbitrage pour FP Finance. Ce projet, impliquait des défis techniques et une compréhension approfondie des besoins métier.
 
 ## Contexte de la mission
 - ⏳ **Durée**: 4 mois (sept 2020 - déc 2020)
@@ -78,11 +78,11 @@ Fin 2020, j’ai eu l’opportunité de créer un système de campagnes d’arbi
 - 💼 **Engagement**: Cette mission comportait un engagement de résultat. L'outil devait être conforme, déployé avant la fin d'année 2020 et produire jusqu'à 10 documents par minute.
 
 ## FP Finance
-[FP Finance](http://www.fpfinance.fr/) est un leader de la gestion de fortune à Nantes, gérant 300 M€ d'actifs. Spécialisée en ingénierie financière, FP Finance propose un suivi et un conseil financier haut de gamme pour une clientèle prestigieuse.
+[FP Finance](http://www.fpfinance.fr/) est un leader de la gestion de fortune à Nantes, gérant 300 M€ d’actifs spécialisée en ingénierie financière. La société propose un conseil financier haut de gamme pour une clientèle prestigieuse.
 
 ## Le métier du conseil financier
-Les conseillers patrimoniaux ont pour mission d'apporter un conseil objectif et stratégique à leurs clients. Ceci dans le but d'optimiser leurs placements en fonction de leur situation financière, de leurs projets de vie et de l’actualité économique. 
-Lors d'une consultation ou à l'occasion d'événements financiers majeurs, le conseiller peut proposer des arbitrages qui répondent aux enjeux du client.
+Un conseiller aide ses clients à optimiser et à gérer leur patrimoine en fonction de leurs objectifs financiers et fiscaux.
+Lors d’une consultation ou d’un suivi annuel, le conseiller peut proposer une réallocation. On appelle cela un arbitrage.
 
 ## Le Rapport Écrit de Conseil (REC)
 Le REC est le document qui formalise la stratégie recommandée à l'issu d'une consultation. Il contient des analyses sur la situation initiale et préconisée du client.
@@ -92,11 +92,11 @@ Ma mission consistait à développer un système de campagnes d'arbitrage intég
 
 Une campagne d'arbitrage se déroule en trois étapes:
 
-- **Sélection** : Identification des clients concernés selon des critères précis (âge, encours, profil de risque).
+- **Sélection** des clients concernés selon des critères précis (âge, encours, profil de risque).
 
-- **Saisie** : Saisie de l'arbitrage en fonction des objectifs clients et du contexte financier.
+- **Saisie**  de l'arbitrage en fonction des objectifs clients et du contexte financier.
 
-- **Suivi** : Validation, génération automatique du REC et signature numérique pour garantir un suivi optimal.
+- **Suivi**, validation, génération du REC et signature numérique.
 
 ### Aperçu
 <div class="swiper">

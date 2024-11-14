@@ -1,11 +1,18 @@
-- title: FORTIL - Developpeur FullStack .NET
-  from: février 2021
+- title: La Financière d'Orion - Développeur .NET (FullStack)
+  from: novembre 2022
   to: aujourd'hui
   location: Rennes, Bretagne, France
   description: |
     Développement d'une application cross-plateforme mobile, de son backend avec son intégration cloud. Il s’agit d'une application de diagnostic immobilier développée en flutter.
 
-- title: The Stadium - Développeur Full Stack (Mobile)
+- title: ITGA - Développeur .NET (FullStack)
+  from: février 2021
+  to: novembre 2022
+  location: Rennes, Bretagne, France
+  description: |
+    Développement d'une application cross-plateforme mobile, de son backend avec son intégration cloud. Il s’agit d'une application de diagnostic immobilier développée en flutter.
+
+- title: The Stadium - Développeur .NET (FullStack)
   from: juin 2019
   to: septembre 2022
   location: Région de Nantes, France · À distance
@@ -13,7 +20,7 @@
     Sur mon temps libre développement d'une application (Android/iOS) pour le compte d'un client en free-lance. Développée en React-Native ainsi qu'un backend API Rest en ASP.NET Core.
 
 
-- title: FP FINANCES - Développeur Full Stack
+- title: FP FINANCES - Développeur .NET (FullStack)
   from: septembre 2020
   to: décembre 2020
   location: Freelance
@@ -27,7 +34,7 @@
   description: |
     Amélioration de la sécurité, XSS, Upload Arbitraire, mauvaise configuration. Développement continu d’un ERP pour le suivi des encours clients. Mise en place d’une intégration continue avec Azure DevOps.
 
-- title: OBERTHUR FIDUCIAIRE SAS - Développeur logiciels (Junior C#)
+- title: OBERTHUR FIDUCIAIRE SAS - Développeur .NET (Junior)
   from: août 2016
   to: juillet 2018
   location: Rennes, Bretagne, France · Sur site
@@ -37,7 +44,7 @@
 - title: ENI Ecole Informatique
   description: Concepteur Développeur Informatique RNCP Niv. II
   field: Informatique
-  from: 2018
+  from: 
   to: 2020
 
 - title: ÉCOLES AFTEC
@@ -50,4 +57,4 @@
   program: Programmation / développeur informatique
   description:  Réecriture des librairies standard du language C.
   from: 2016
-  to: (3 Mois)
+  to: 
